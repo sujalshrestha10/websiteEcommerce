@@ -1,67 +1,67 @@
 const products = [
   {
     id: 1,
-    name: "Product 1",
+    name: "Jeans Jacket",
     price: 19.99,
     img: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
   {
     id: 2,
-    name: "Product 2",
+    name: "Cap Copton",
     price: 24.99,
     img: "https://images.pexels.com/photos/1460036/pexels-photo-1460036.jpeg",
   },
   {
     id: 3,
-    name: "Product 3",
+    name: "Leather Bag",
     price: 29.99,
     img: "https://images.pexels.com/photos/1484771/pexels-photo-1484771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
   {
     id: 4,
-    name: "Product 4",
+    name: "Vans",
     price: 14.99,
     img: " https://images.pexels.com/photos/1407354/pexels-photo-1407354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Nike boost",
     price: 14.99,
     img: "https://images.pexels.com/photos/1476209/pexels-photo-1476209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Full-converse",
     price: 14.99,
     img: "https://images.pexels.com/photos/14127005/pexels-photo-14127005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Texon Belt",
     price: 14.99,
     img: "https://images.pexels.com/photos/989938/pexels-photo-989938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Coll-Shoes",
     price: 14.99,
     img: "https://images.pexels.com/photos/3558802/pexels-photo-3558802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Greasy Jeans",
     price: 14.99,
     img: "https://images.pexels.com/photos/1235692/pexels-photo-1235692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 
   {
     id: 4,
-    name: "Product 4",
+    name: "Glass-Pant-Combo",
     price: 14.99,
     img: " https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
