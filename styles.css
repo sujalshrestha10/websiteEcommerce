@@ -150,6 +150,7 @@ body {
 
 .product h3 {
   margin: 10px 0;
+  color: orange;
 }
 
 .product p {
@@ -184,7 +185,6 @@ body {
 .payment-methods {
   text-align: center;
   margin-bottom: 30px;
-  
 }
 
 .payment-methods h4 {
